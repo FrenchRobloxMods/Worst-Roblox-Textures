@@ -1,0 +1,11 @@
+Dont forget to extract the content.zip folder.
+
+To setup the ROBLOX texture pack, copy the file named content that
+is in the same folder of the Read me.txt file.
+
+Go to Windows > Program Files x86 > Roblox > Versions > Your actual
+ROBLOX version, then delete the existing content file and paste the 
+new one.
+
+Everything is finish. Enjoy the trolling.
+By TheBasicWar (@TheBasicWar).
